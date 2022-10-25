@@ -1,19 +1,31 @@
-*{
-    background-color: #737373;
-    font-family: Gidole, Arial, Permanent Maker;
-    font-size: 24px;
+* {
+  background-color: #989393;
+  font-family: Gidole, Arial, Permanent Maker;
+  font-size: 24px;
+  margin: 0;
 }
 
-.header-container{
-    display: flexbox;
+.header-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background-color: #737373;
+  margin: 0px;
+  padding: 15px;
+  width: 100%;
+
 }
 
-h1{
-    color: white;
-    justify-items: flex-end;
-    left: 200px;
+h1 {
+  color: white;
+  position: relative;
+  left: 1400px;
+  background-color: #737373;
 }
 
-.navbar{
-    color: aqua;
+.header-image{
+    border-radius: 25px;
+    width: 125px;
+    height: 125px;
+
 }
