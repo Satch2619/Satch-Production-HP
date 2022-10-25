@@ -1,0 +1,11 @@
+>!--Google Maps Standort-->
+
+<div class="standort-container">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5115.036509126549!2d8.881964200000008!3d50.13273600000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd10d58cac6a5d%3A0x569308e745f72446!2sTilsiter%20Str.%206C%2C%2063454%20Hanau!5e0!3m2!1sde!2sde!4v1651911816030!5m2!1sde!2sde"
+        width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+	</iframe>
+</div>
+
+<!--Kontakt Link-->
+
+<a href="http://127.0.0.1:5500/Satch%20Production/kontakt.html">Kontakt</a>
