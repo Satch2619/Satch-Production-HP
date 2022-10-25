@@ -1,0 +1,12 @@
+h1 {
+    font-family: Impact;
+    color: #ffbd59;
+    font-weight: 10;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: #727272;
+}

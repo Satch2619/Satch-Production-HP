@@ -1,0 +1,19 @@
+*{
+    background-color: #737373;
+    font-family: Gidole, Arial, Permanent Maker;
+    font-size: 24px;
+}
+
+.header-container{
+    display: flexbox;
+}
+
+h1{
+    color: white;
+    justify-items: flex-end;
+    left: 200px;
+}
+
+.navbar{
+    color: aqua;
+}
