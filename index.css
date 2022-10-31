@@ -1,4 +1,4 @@
-:root{
+:root {
   --Sgrey: #737373;
   --Sorange: #ffbd59;
 }
@@ -7,31 +7,39 @@
   font-family: Gidole, Arial, Permanent Maker;
   font-size: 24px;
   margin: 0;
-  
 }
 
 header {
-  background-color: #737373;
+  background-image: linear-gradient(var(--Sgrey) 88%, #989393);
+  height: 100px;
   margin: 0px;
-  padding:15px;
+  padding: 15px;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-h1 {
-  font-size: 2.2rem;
-  color: var(--Sorange);
-  text-align: center;
-  padding: 5px;
+nav {
+  background-color: var(--Sgrey);
 }
 
 a {
-  color: white;
+  color: var(--Sorange);
   font-family: Gidole, Arial, Permanent Maker;
+  text-decoration: none;
+  background-color: var(--Sgrey);
+  justify-content: space-evenly;
+  padding: 0.25rem;
 }
 
 img {
-  width: 125px;
-  height: 125px;
+  width: 100px;
+  height: 100px;
+}
+
+h1 {
+  font-size: 1.8rem;
+  color: var(--Sorange);
+  text-align: center;
+  padding: 5px;
 }
