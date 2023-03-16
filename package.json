@@ -1,0 +1,23 @@
+{
+  "name": "satch-production-hp",
+  "version": "1.0.0",
+  "description": "My Own Homepage Satch Production",
+  "main": "index.js",
+  "scripts": {
+    "sass-dev": "sass --watch assets/scss/main.scss:assets/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satch2619/Satch-Production-HP.git"
+  },
+  "keywords": [],
+  "author": "Satch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Satch2619/Satch-Production-HP/issues"
+  },
+  "homepage": "https://github.com/Satch2619/Satch-Production-HP#readme",
+  "devDependencies": {
+    "sass": "^1.59.3"
+  }
+}
